@@ -1,5 +1,8 @@
 # Happy Beans Coffee Customer Churn Prediction
 
+![Uploading image.png…]()
+
+
 A machine learning educational project aimed at predicting customer churn for a coffee delivery service.
 
 ## Project Description
