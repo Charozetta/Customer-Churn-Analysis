@@ -1,8 +1,6 @@
 # Happy Beans Coffee Customer Churn Prediction
 
-[[![Uploading image.png…]()](https://www.europosters.de/coffee-beans-and-ground-coffee-f68508148?srsltid=AfmBOoryxlPQFQesTVMeqHkPARVCVMO0C-bn7JhdvB7XwRIf42d1DqU1)](https://imgur.com/gallery/bunday-coffee-just-hits-so-right-BeoNdy2#/t/coffee)
-
-
+![image](https://imgur.com/gallery/bunday-coffee-just-hits-so-right-BeoNdy2#/t/coffee)
 
 A machine learning educational project aimed at predicting customer churn for a coffee delivery service.
 
