@@ -1,9 +1,11 @@
 # Happy Beans Coffee Customer Churn Prediction
+A machine learning educational project aimed at predicting customer churn for a coffee delivery service.
+
 
 <img width="576" height="576" alt="M72eds2" src="https://github.com/user-attachments/assets/f185aab2-ec50-4700-aeb5-091c402b1f5a" />
 
 
-A machine learning educational project aimed at predicting customer churn for a coffee delivery service.
+
 
 ## Project Description
 Happy Beans Coffee recently launched a coffee delivery service but faced a customer churn issue — the service loses about 10% of its customer base every month. Since acquiring a new customer is 5–7 times more expensive than retaining an existing one, accurate churn prediction will allow the company to focus its marketing efforts and budget on retaining high-risk customers.
