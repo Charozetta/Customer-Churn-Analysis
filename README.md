@@ -24,7 +24,6 @@ Happy Beans Coffee recently launched a coffee delivery service but faced a custo
 
 ## Project Structure
 - `coffee_churn_prediction.ipynb` — The main Jupyter Notebook containing the research code, comments, and conclusions.
-- `best_pipeline.pkl` — The saved machine learning model (the result of the notebook execution).
 
 ## Results
 A Logistic Regression model was developed and trained. Through hyperparameter tuning and feature engineering, the model achieved a **PR AUC of 0.7309** on the test set (compared to a baseline of 0.0602, a 12-fold improvement). The model is ready for production deployment.
